@@ -28,10 +28,6 @@ This project empowers informed decision-making using clean data visualizations a
 
 ```
 Dragon-Real-Estate-Dashboard/
-│
-├── assets/
-│   └── logo.png
-│
 ├── Dragon_Real_Estate_Model.ipynb     # Jupyter Notebook with full model documentation
 ├── Predicted_Data.csv                 # Dataset with predicted prices
 ├── app.py                             # Main Dash application file
