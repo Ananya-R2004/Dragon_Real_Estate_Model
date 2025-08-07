@@ -1,4 +1,4 @@
-# 🏡 Dragon Real Estate Predictor
+# Dragon Real Estate Predictor
 
 **Insight-Driven Property Valuation Dashboard**  
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Welcome to the Dragon Real Estate Dashboard
+### Welcome to the Dragon Real Estate Dashboard
 
 Explore the **relationship between neighborhood characteristics, property features, and predicted home prices** through an interactive web dashboard.  
 **Accurate. Transparent. Explainable.**
@@ -82,7 +82,7 @@ The full modeling process — including data preprocessing, feature engineering,
 
 ---
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 To run the interactive dashboard:
 
@@ -128,9 +128,9 @@ Let’s collaborate to make this project even better!
 
 ## 🔗 Connect With Me
 
-- 💻 GitHub: [Ananya-R2004](https://github.com/Ananya-R2004)  
-- 💼 LinkedIn: [www.linkedin.com/in/ananya-r-a7b57b2a4](https://www.linkedin.com/in/ananya-r-a7b57b2a4)  
-- 📧 Email: ananyarajesh2112@gmail.com
+-  GitHub: [Ananya-R2004](https://github.com/Ananya-R2004)  
+-  LinkedIn: [www.linkedin.com/in/ananya-r-a7b57b2a4](https://www.linkedin.com/in/ananya-r-a7b57b2a4)  
+-  Email: ananyarajesh2112@gmail.com
 
 Let's build something amazing together!
 
