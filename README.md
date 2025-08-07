@@ -1,5 +1,6 @@
 # 🏡 Dragon Real Estate Predictor  
-**Insight-Driven Property Valuation Dashboard**  
+  *Insight-Driven Property Valuation Dashboard* 
+  
 ![Logo](assets/logo.png)
 
 ---
@@ -23,16 +24,14 @@ This project empowers informed decision making using clean data visualizations a
 ---
 
 📂 Project Structure
-Dragon-Real-Estate-Dashboard/
-│── assets/
-│   │── logo.png
-│── Dragon_Real_Estate_Model .ipynb    # The Jupyter Notebook with full model documentation
-│── Predicted_Data.csv                 # The dataset with predicted prices                         
-│── app.py                             # Main Dash application file
-│── requirements.txt                   # List of dependencies
-│── README.md                          # Project documentation
-│── .gitignore                         # Ignore unnecessary files
-
+Dragon-Real-Estate-Model/
+│
+├── Dragon_Real_Estate_Model.ipynb     # Jupyter Notebook with full model documentation
+├── Predicted_Data.csv                 # Dataset with predicted prices
+├── app.py                             # Main Dash application file
+├── requirements.txt                   # List of dependencies
+├── README.md                          # Project documentation
+└── .gitignore                         # Ignore unnecessary files
 ---
 
 🛠️ Installation Guide
@@ -77,10 +76,11 @@ Want to improve this project? Feel free to fork the repository, report issues, o
 
 ---
 🔗 Connect With Me
- GitHub: Ananya-R2004
 
- LinkedIn: www.linkedin.com/in/ananya-r-a7b57b2a4
+  GitHub: Ananya-R2004
 
- Email: ananyarajesh2112@gmail.com
+  LinkedIn: www.linkedin.com/in/ananya-r-a7b57b2a4
+
+  Email: ananyarajesh2112@gmail.com
 
 Let's build something amazing together! 
