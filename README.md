@@ -37,7 +37,7 @@ Dragon-Real-Estate-Dashboard/
 
 🛠️ Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/Ananya-R2004/Dragon-Real-Estate-Dashboard.git
+git clone https://github.com/Ananya-R2004/Dragon_Real_Estate_Model.git
 cd Dragon-Real-Estate-Dashboard
 
 2️⃣ Create a Virtual Environment
