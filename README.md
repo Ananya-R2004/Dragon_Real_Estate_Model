@@ -34,6 +34,7 @@ Dragon-Real-Estate-Dashboard/
 │── requirements.txt                   # List of dependencies
 │── README.md                          # Project documentation
 │── .gitignore                         # Ignore unnecessary files
+```
 
 ---
 
