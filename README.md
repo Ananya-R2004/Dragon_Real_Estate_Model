@@ -1,5 +1,6 @@
 # 🏡 Dragon Real Estate Predictor  
 **Insight-Driven Property Valuation Dashboard**  
+
 ![Logo](assets/logo.png)
 
 ---
@@ -22,12 +23,13 @@ This project empowers informed decision making using clean data visualizations a
 
 ---
 
-📂 Project Structure
+### 📂 Project Structure
+```text
 Dragon-Real-Estate-Dashboard/
 │── assets/
-│   │── logo.png
-│── Dragon_Real_Estate_Model .ipynb    # The Jupyter Notebook with full model documentation
-│── Predicted_Data.csv                 # The dataset with predicted prices                         
+│   └── logo.png
+│── Dragon_Real_Estate_Model.ipynb     # The Jupyter Notebook with full model documentation
+│── Predicted_Data.csv                 # The dataset with predicted prices                                         
 │── app.py                             # Main Dash application file
 │── requirements.txt                   # List of dependencies
 │── README.md                          # Project documentation
@@ -37,15 +39,17 @@ Dragon-Real-Estate-Dashboard/
 
 🛠️ Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/Ananya-R2004/Dragon_Real_Estate_Model.git
-cd Dragon-Real-Estate-Dashboard
+```bash git clone https://github.com/Ananya-R2004/Dragon_Real_Estate_Model.git
+cd Dragon-Real-Estate-Dashboard```
 
 2️⃣ Create a Virtual Environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```bash python -m venv venv
+source venv/bin/activate ```  # On Windows use: venv\Scripts\activate
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+```bash pip install -r requirements.txt```
+
+---
 
 📊 Dataset and Model Details
 This project uses Predicted_Data.csv, which contains the  predicted prices from a regression model.
@@ -55,7 +59,7 @@ The full details of the model, including data preprocessing, feature engineering
 Usage Instructions
 To run the interactive dashboard, ensure your virtual environment is active and all dependencies are installed. Then, execute the following command:
 
-python app.py
+```bash python app.py```
 
 ---
 
