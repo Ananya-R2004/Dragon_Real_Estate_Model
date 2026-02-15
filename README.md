@@ -40,15 +40,21 @@ Dragon-Real-Estate-Dashboard/
 
 🛠️ Installation Guide
 1️⃣ Clone the Repository
-```bash git clone https://github.com/Ananya-R2004/Dragon_Real_Estate_Model.git
-cd Dragon-Real-Estate-Dashboard```
+```bash
+git clone https://github.com/Ananya-R2004/Dragon_Real_Estate_Model.git
+cd Dragon-Real-Estate-Dashboard
+```
 
 2️⃣ Create a Virtual Environment
-```bash python -m venv venv
-source venv/bin/activate ```  # On Windows use: venv\Scripts\activate
+``` bash
+python -m venv venv
+source venv/bin/activate 
+ ```  
 
 3️⃣ Install Dependencies
-```bash pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
 
 ---
 
